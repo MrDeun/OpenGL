@@ -1,0 +1,10 @@
+[package]
+name = "OpenGL"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+beryllium = "0.13.3"
+bytemuck = "1.16.3"
+imagine = "0.5.1"
+ogl33 = "0.3.0"
